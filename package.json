@@ -1,0 +1,29 @@
+{
+  "name": "server_mernstack",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bretton7700/server_mernstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bretton7700/server_mernstack/issues"
+  },
+  "homepage": "https://github.com/bretton7700/server_mernstack#readme",
+  "dependencies": {
+    "cloudinary": "^1.35.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
